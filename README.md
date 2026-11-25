@@ -8,8 +8,8 @@
 
 ## 🌐 Live Access Links
 
+* **Live Hosted Application (No Password Required)**: **[https://age-languages-frog-ultram.trycloudflare.com](https://age-languages-frog-ultram.trycloudflare.com)**
 * **GitHub Repository**: [https://github.com/chrisvjoseph07-rgb/OES-Hackathon](https://github.com/chrisvjoseph07-rgb/OES-Hackathon)
-* **Instant Live Demo**: [https://neat-seals-pick.loca.lt](https://neat-seals-pick.loca.lt) *(Tunnel password if prompted: `45.249.79.41`)*
 * **1-Click Free Cloud Deployment**: Click the **Deploy to Render** button above to host permanently with 1 click.
 
 ---
