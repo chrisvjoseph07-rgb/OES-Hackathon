@@ -1,6 +1,16 @@
 # EXAMORA – Modern Online Examination Management System
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/chrisvjoseph07-rgb/OES-Hackathon)
+
 **EXAMORA** (CampusTest) is a comprehensive, responsive, and robust academic examination management platform designed for modern universities and educational institutions. Built with a full-stack architecture (**React, Node.js, Express, MongoDB/Local-Persistent Storage, Tailwind CSS**), it provides complete role-based access control for **Administrators**, **Faculty members**, and **Students**.
+
+---
+
+## 🌐 Live Access Links
+
+* **GitHub Repository**: [https://github.com/chrisvjoseph07-rgb/OES-Hackathon](https://github.com/chrisvjoseph07-rgb/OES-Hackathon)
+* **Instant Live Demo**: [https://neat-seals-pick.loca.lt](https://neat-seals-pick.loca.lt) *(Tunnel password if prompted: `45.249.79.41`)*
+* **1-Click Free Cloud Deployment**: Click the **Deploy to Render** button above to host permanently with 1 click.
 
 ---
 
