@@ -8,7 +8,7 @@
 
 ## 🌐 Live Access Links
 
-* **Live Hosted Application (No Password Required)**: **[https://age-languages-frog-ultram.trycloudflare.com](https://age-languages-frog-ultram.trycloudflare.com)**
+* **Live Hosted Application (No Password Required)**: **[https://fitted-basin-live-province.trycloudflare.com](https://fitted-basin-live-province.trycloudflare.com)**
 * **GitHub Repository**: [https://github.com/chrisvjoseph07-rgb/OES-Hackathon](https://github.com/chrisvjoseph07-rgb/OES-Hackathon)
 * **1-Click Free Cloud Deployment**: Click the **Deploy to Render** button above to host permanently with 1 click.
 

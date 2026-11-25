@@ -27,3 +27,6 @@ pnpm-debug.log*
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Tunnel binary
+cloudflared.exe
