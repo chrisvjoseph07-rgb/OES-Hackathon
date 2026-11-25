@@ -1,0 +1,2560 @@
+{
+  "users": [
+    {
+      "_id": "id_1795631831089_kk6iip",
+      "createdAt": "2026-11-25T18:37:11.089Z",
+      "updatedAt": "2026-11-25T18:51:44.360Z",
+      "fullName": "U Haritha",
+      "email": "admin@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "admin",
+      "phone": "7898089890",
+      "department": "Administration",
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "_id": "id_1795631831089_mbigko",
+      "createdAt": "2026-11-25T18:37:11.089Z",
+      "updatedAt": "2026-11-25T18:37:11.089Z",
+      "fullName": "Dr. Sarah Jenkins",
+      "email": "faculty@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "faculty",
+      "phone": "+1 555-0201",
+      "facultyId": "FAC-1001",
+      "department": "Computer Science & Engineering",
+      "designation": "Associate Professor",
+      "assignedSubjects": [
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "assignedSections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "assignedCourses": [
+        "B.Tech Computer Science"
+      ],
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "_id": "id_1795631831090_z37bud",
+      "createdAt": "2026-11-25T18:37:11.090Z",
+      "updatedAt": "2026-11-25T18:37:11.090Z",
+      "fullName": "Prof. Robert Chen",
+      "email": "chen@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "faculty",
+      "phone": "+1 555-0202",
+      "facultyId": "FAC-1002",
+      "department": "Computer Science & Engineering",
+      "designation": "Assistant Professor",
+      "assignedSubjects": [
+        "Data Structures & Algorithms",
+        "Database Management Systems"
+      ],
+      "assignedSections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "assignedCourses": [
+        "B.Tech Computer Science"
+      ],
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "_id": "id_1795631831091_x0sijx",
+      "createdAt": "2026-11-25T18:37:11.091Z",
+      "updatedAt": "2026-11-25T18:37:11.091Z",
+      "fullName": "Dr. Anita Sharma",
+      "email": "sharma@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "faculty",
+      "phone": "+1 555-0203",
+      "facultyId": "FAC-1003",
+      "department": "Electronics & Communication Engineering",
+      "designation": "Professor",
+      "assignedSubjects": [
+        "Digital Electronics"
+      ],
+      "assignedSections": [
+        "ECE-A"
+      ],
+      "assignedCourses": [
+        "B.Tech Electronics & Communication"
+      ],
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "_id": "id_1795631831092_xkyt5z",
+      "createdAt": "2026-11-25T18:37:11.092Z",
+      "updatedAt": "2026-11-25T18:37:11.092Z",
+      "fullName": "Prof. David Miller",
+      "email": "miller@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "faculty",
+      "phone": "+1 555-0204",
+      "facultyId": "FAC-1004",
+      "department": "Mechanical Engineering",
+      "designation": "Assistant Professor",
+      "assignedSubjects": [
+        "Thermodynamics"
+      ],
+      "assignedSections": [
+        "ME-A"
+      ],
+      "assignedCourses": [
+        "B.Tech Mechanical Engineering"
+      ],
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "_id": "id_1795631831092_ucjaee",
+      "createdAt": "2026-11-25T18:37:11.092Z",
+      "updatedAt": "2026-11-25T18:37:11.092Z",
+      "fullName": "Dr. Priya Patel",
+      "email": "patel@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "faculty",
+      "phone": "+1 555-0205",
+      "facultyId": "FAC-1005",
+      "department": "Computer Science & Engineering",
+      "designation": "Associate Professor",
+      "assignedSubjects": [
+        "Database Management Systems"
+      ],
+      "assignedSections": [
+        "CSE-A"
+      ],
+      "assignedCourses": [
+        "B.Tech Computer Science"
+      ],
+      "status": "active",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "_id": "id_1795631831093_szfdmg",
+      "createdAt": "2026-11-25T18:37:11.093Z",
+      "updatedAt": "2026-11-25T18:52:45.840Z",
+      "fullName": "Charan Reddy",
+      "email": "student@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6924",
+      "studentId": "CS202401",
+      "rollNumber": "CS202401",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202401"
+    },
+    {
+      "_id": "id_1795631831094_0iaagu",
+      "createdAt": "2026-11-25T18:37:11.094Z",
+      "updatedAt": "2026-11-25T18:37:11.094Z",
+      "fullName": "Sophia Hayes",
+      "email": "sophia.h@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6521",
+      "studentId": "CS202402",
+      "rollNumber": "CS202402",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202402"
+    },
+    {
+      "_id": "id_1795631831095_39czc8",
+      "createdAt": "2026-11-25T18:37:11.095Z",
+      "updatedAt": "2026-11-25T18:37:11.095Z",
+      "fullName": "Liam Davies",
+      "email": "liam.d@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-1518",
+      "studentId": "CS202403",
+      "rollNumber": "CS202403",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202403"
+    },
+    {
+      "_id": "id_1795631831096_5z0png",
+      "createdAt": "2026-11-25T18:37:11.096Z",
+      "updatedAt": "2026-11-25T18:37:11.096Z",
+      "fullName": "Emma Wilson",
+      "email": "emma.w@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-1078",
+      "studentId": "CS202404",
+      "rollNumber": "CS202404",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202404"
+    },
+    {
+      "_id": "id_1795631831097_0g70xw",
+      "createdAt": "2026-11-25T18:37:11.097Z",
+      "updatedAt": "2026-11-25T18:37:11.097Z",
+      "fullName": "Noah Taylor",
+      "email": "noah.t@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-5581",
+      "studentId": "CS202405",
+      "rollNumber": "CS202405",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202405"
+    },
+    {
+      "_id": "id_1795631831098_ws4or1",
+      "createdAt": "2026-11-25T18:37:11.098Z",
+      "updatedAt": "2026-11-25T18:37:11.098Z",
+      "fullName": "Olivia Martinez",
+      "email": "olivia.m@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-5241",
+      "studentId": "CS202406",
+      "rollNumber": "CS202406",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202406"
+    },
+    {
+      "_id": "id_1795631831098_6sgndq",
+      "createdAt": "2026-11-25T18:37:11.098Z",
+      "updatedAt": "2026-11-25T18:37:11.098Z",
+      "fullName": "Ethan Thomas",
+      "email": "ethan.t@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-8924",
+      "studentId": "CS202407",
+      "rollNumber": "CS202407",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202407"
+    },
+    {
+      "_id": "id_1795631831099_371y1w",
+      "createdAt": "2026-11-25T18:37:11.099Z",
+      "updatedAt": "2026-11-25T18:37:11.099Z",
+      "fullName": "Ava Jackson",
+      "email": "ava.j@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6892",
+      "studentId": "CS202408",
+      "rollNumber": "CS202408",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202408"
+    },
+    {
+      "_id": "id_1795631831100_gb07tt",
+      "createdAt": "2026-11-25T18:37:11.100Z",
+      "updatedAt": "2026-11-25T18:37:11.100Z",
+      "fullName": "Lucas White",
+      "email": "lucas.w@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6871",
+      "studentId": "CS202409",
+      "rollNumber": "CS202409",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202409"
+    },
+    {
+      "_id": "id_1795631831101_el5w2b",
+      "createdAt": "2026-11-25T18:37:11.101Z",
+      "updatedAt": "2026-11-25T18:37:11.101Z",
+      "fullName": "Mia Harris",
+      "email": "mia.h@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-7913",
+      "studentId": "CS202410",
+      "rollNumber": "CS202410",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202410"
+    },
+    {
+      "_id": "id_1795631831102_137gyq",
+      "createdAt": "2026-11-25T18:37:11.102Z",
+      "updatedAt": "2026-11-25T18:37:11.102Z",
+      "fullName": "Benjamin Clark",
+      "email": "ben.c@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-9244",
+      "studentId": "CS202411",
+      "rollNumber": "CS202411",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202411"
+    },
+    {
+      "_id": "id_1795631831103_x14t2a",
+      "createdAt": "2026-11-25T18:37:11.103Z",
+      "updatedAt": "2026-11-25T18:37:11.103Z",
+      "fullName": "Charlotte Lewis",
+      "email": "charlotte.l@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6083",
+      "studentId": "CS202412",
+      "rollNumber": "CS202412",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202412"
+    },
+    {
+      "_id": "id_1795631831104_nvz8cy",
+      "createdAt": "2026-11-25T18:37:11.104Z",
+      "updatedAt": "2026-11-25T18:37:11.104Z",
+      "fullName": "Elijah Robinson",
+      "email": "elijah.r@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-1435",
+      "studentId": "CS202413",
+      "rollNumber": "CS202413",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202413"
+    },
+    {
+      "_id": "id_1795631831105_78d5ce",
+      "createdAt": "2026-11-25T18:37:11.105Z",
+      "updatedAt": "2026-11-25T18:37:11.105Z",
+      "fullName": "Amelia Walker",
+      "email": "amelia.w@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-8152",
+      "studentId": "CS202414",
+      "rollNumber": "CS202414",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202414"
+    },
+    {
+      "_id": "id_1795631831105_xuv5ae",
+      "createdAt": "2026-11-25T18:37:11.105Z",
+      "updatedAt": "2026-11-25T18:37:11.105Z",
+      "fullName": "James Perez",
+      "email": "james.p@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-8520",
+      "studentId": "CS202415",
+      "rollNumber": "CS202415",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202415"
+    },
+    {
+      "_id": "id_1795631831106_3oa1w7",
+      "createdAt": "2026-11-25T18:37:11.106Z",
+      "updatedAt": "2026-11-25T18:37:11.106Z",
+      "fullName": "Harper Hall",
+      "email": "harper.h@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6366",
+      "studentId": "CS202416",
+      "rollNumber": "CS202416",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202416"
+    },
+    {
+      "_id": "id_1795631831107_po33b3",
+      "createdAt": "2026-11-25T18:37:11.107Z",
+      "updatedAt": "2026-11-25T18:37:11.107Z",
+      "fullName": "Alexander Young",
+      "email": "alex.y@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-5746",
+      "studentId": "CS202417",
+      "rollNumber": "CS202417",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202417"
+    },
+    {
+      "_id": "id_1795631831108_pyp9pp",
+      "createdAt": "2026-11-25T18:37:11.108Z",
+      "updatedAt": "2026-11-25T18:37:11.108Z",
+      "fullName": "Evelyn Allen",
+      "email": "evelyn.a@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-2993",
+      "studentId": "CS202418",
+      "rollNumber": "CS202418",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-B",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=CS202418"
+    },
+    {
+      "_id": "id_1795631831109_v338fc",
+      "createdAt": "2026-11-25T18:37:11.109Z",
+      "updatedAt": "2026-11-25T18:37:11.109Z",
+      "fullName": "Henry Sanchez",
+      "email": "henry.s@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-7241",
+      "studentId": "EC202401",
+      "rollNumber": "EC202401",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202401"
+    },
+    {
+      "_id": "id_1795631831110_j8fqwf",
+      "createdAt": "2026-11-25T18:37:11.110Z",
+      "updatedAt": "2026-11-25T18:37:11.110Z",
+      "fullName": "Abigail Wright",
+      "email": "abigail.w@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6997",
+      "studentId": "EC202402",
+      "rollNumber": "EC202402",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202402"
+    },
+    {
+      "_id": "id_1795631831111_ytba5r",
+      "createdAt": "2026-11-25T18:37:11.111Z",
+      "updatedAt": "2026-11-25T18:37:11.111Z",
+      "fullName": "Sebastian King",
+      "email": "seb.k@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-8031",
+      "studentId": "EC202403",
+      "rollNumber": "EC202403",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202403"
+    },
+    {
+      "_id": "id_1795631831112_wfh50m",
+      "createdAt": "2026-11-25T18:37:11.112Z",
+      "updatedAt": "2026-11-25T18:37:11.112Z",
+      "fullName": "Emily Scott",
+      "email": "emily.s@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-9642",
+      "studentId": "EC202404",
+      "rollNumber": "EC202404",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202404"
+    },
+    {
+      "_id": "id_1795631831113_wap9on",
+      "createdAt": "2026-11-25T18:37:11.113Z",
+      "updatedAt": "2026-11-25T18:37:11.113Z",
+      "fullName": "Jack Green",
+      "email": "jack.g@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-2315",
+      "studentId": "EC202405",
+      "rollNumber": "EC202405",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202405"
+    },
+    {
+      "_id": "id_1795631831113_2sqcl5",
+      "createdAt": "2026-11-25T18:37:11.113Z",
+      "updatedAt": "2026-11-25T18:37:11.113Z",
+      "fullName": "Ella Adams",
+      "email": "ella.a@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-3098",
+      "studentId": "EC202406",
+      "rollNumber": "EC202406",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202406"
+    },
+    {
+      "_id": "id_1795631831114_znr2rr",
+      "createdAt": "2026-11-25T18:37:11.114Z",
+      "updatedAt": "2026-11-25T18:37:11.114Z",
+      "fullName": "Daniel Baker",
+      "email": "daniel.b@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-2779",
+      "studentId": "EC202407",
+      "rollNumber": "EC202407",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ECE-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=EC202407"
+    },
+    {
+      "_id": "id_1795631831115_bia7bs",
+      "createdAt": "2026-11-25T18:37:11.115Z",
+      "updatedAt": "2026-11-25T18:37:11.115Z",
+      "fullName": "Samuel Nelson",
+      "email": "sam.n@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-1237",
+      "studentId": "ME202401",
+      "rollNumber": "ME202401",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202401"
+    },
+    {
+      "_id": "id_1795631831116_yfvtwk",
+      "createdAt": "2026-11-25T18:37:11.116Z",
+      "updatedAt": "2026-11-25T18:37:11.116Z",
+      "fullName": "Chloe Carter",
+      "email": "chloe.c@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6702",
+      "studentId": "ME202402",
+      "rollNumber": "ME202402",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202402"
+    },
+    {
+      "_id": "id_1795631831117_am105g",
+      "createdAt": "2026-11-25T18:37:11.117Z",
+      "updatedAt": "2026-11-25T18:37:11.117Z",
+      "fullName": "Matthew Mitchell",
+      "email": "matt.m@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-6880",
+      "studentId": "ME202403",
+      "rollNumber": "ME202403",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202403"
+    },
+    {
+      "_id": "id_1795631831118_dk1mdg",
+      "createdAt": "2026-11-25T18:37:11.118Z",
+      "updatedAt": "2026-11-25T18:37:11.118Z",
+      "fullName": "Scarlett Roberts",
+      "email": "scarlett.r@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-8035",
+      "studentId": "ME202404",
+      "rollNumber": "ME202404",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202404"
+    },
+    {
+      "_id": "id_1795631831119_d39jwm",
+      "createdAt": "2026-11-25T18:37:11.119Z",
+      "updatedAt": "2026-11-25T18:37:11.119Z",
+      "fullName": "David Turner",
+      "email": "david.t@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-1178",
+      "studentId": "ME202405",
+      "rollNumber": "ME202405",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202405"
+    },
+    {
+      "_id": "id_1795631831120_tmmioh",
+      "createdAt": "2026-11-25T18:37:11.120Z",
+      "updatedAt": "2026-11-25T18:37:11.120Z",
+      "fullName": "Grace Phillips",
+      "email": "grace.p@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-1016",
+      "studentId": "ME202406",
+      "rollNumber": "ME202406",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202406"
+    },
+    {
+      "_id": "id_1795631831121_ve2i86",
+      "createdAt": "2026-11-25T18:37:11.121Z",
+      "updatedAt": "2026-11-25T18:37:11.121Z",
+      "fullName": "Joseph Campbell",
+      "email": "joseph.c@examora.com",
+      "password": "$2a$10$4j.tiVwzntZahvT9hDcMPOzC5MMgrsrG1tSbNviA0WFVvdBxftufy",
+      "role": "student",
+      "phone": "+1 555-5134",
+      "studentId": "ME202407",
+      "rollNumber": "ME202407",
+      "department": "Mechanical Engineering",
+      "course": "B.Tech Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "ME-A",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=ME202407"
+    },
+    {
+      "_id": "id_1795633001499_49lr98",
+      "createdAt": "2026-11-25T18:56:41.499Z",
+      "updatedAt": "2026-11-25T18:56:41.500Z",
+      "fullName": "Test Student",
+      "email": "newstudent@examora.com",
+      "password": "$2a$10$cv9eR.8W7r6WuHLVTajrFum2hw7G.8ULBGHhq9l3IZSooiANhx9P6",
+      "role": "student",
+      "phone": "",
+      "department": "Computer Science & Engineering",
+      "status": "active",
+      "studentId": "STU1033",
+      "rollNumber": "STU1033",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "section": "CSE-A",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=STU1033"
+    },
+    {
+      "_id": "id_1795633001622_tnzidk",
+      "createdAt": "2026-11-25T18:56:41.622Z",
+      "updatedAt": "2026-11-25T18:56:41.622Z",
+      "fullName": "Prof. Test Faculty",
+      "email": "newfaculty@examora.com",
+      "password": "$2a$10$5cmtyUUXI1F2ptIvAAdK3e/CKVvNnTgo4aYMnREv0cVxSx6dTJM7O",
+      "role": "faculty",
+      "phone": "",
+      "department": "Computer Science & Engineering",
+      "status": "active",
+      "facultyId": "FAC-1006",
+      "designation": "Assistant Professor",
+      "assignedSubjects": [
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "assignedSections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "assignedCourses": [
+        "B.Tech Computer Science"
+      ],
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=FAC-1006"
+    },
+    {
+      "_id": "id_1795633001734_2ln66r",
+      "createdAt": "2026-11-25T18:56:41.734Z",
+      "updatedAt": "2026-11-25T18:56:41.734Z",
+      "fullName": "Assistant Administrator",
+      "email": "newadmin@examora.com",
+      "password": "$2a$10$R9oBhNl/FuU3tGAlf/jStO6YeFSWI/T7Kg0vXnBrPjIAoMI78G3am",
+      "role": "admin",
+      "phone": "",
+      "department": "Administration",
+      "status": "active",
+      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=admin_2"
+    }
+  ],
+  "departments": [
+    {
+      "_id": "id_1795631831071_shxh2g",
+      "createdAt": "2026-11-25T18:37:11.071Z",
+      "updatedAt": "2026-11-25T18:37:11.073Z",
+      "name": "Computer Science & Engineering",
+      "code": "CSE",
+      "hodName": "Dr. Alan Turing",
+      "description": "Department of Computer Science & Engineering"
+    },
+    {
+      "_id": "id_1795631831075_r1uevt",
+      "createdAt": "2026-11-25T18:37:11.075Z",
+      "updatedAt": "2026-11-25T18:37:11.075Z",
+      "name": "Electronics & Communication Engineering",
+      "code": "ECE",
+      "hodName": "Dr. Claude Shannon",
+      "description": "Department of Electronics & Communication"
+    },
+    {
+      "_id": "id_1795631831076_fl6msy",
+      "createdAt": "2026-11-25T18:37:11.076Z",
+      "updatedAt": "2026-11-25T18:37:11.076Z",
+      "name": "Mechanical Engineering",
+      "code": "ME",
+      "hodName": "Dr. James Watt",
+      "description": "Department of Mechanical Engineering"
+    }
+  ],
+  "courses": [
+    {
+      "_id": "id_1795631831077_zexndb",
+      "createdAt": "2026-11-25T18:37:11.077Z",
+      "updatedAt": "2026-11-25T18:37:11.077Z",
+      "name": "B.Tech Computer Science",
+      "code": "BT-CSE",
+      "departmentId": "id_1795631831071_shxh2g",
+      "departmentName": "Computer Science & Engineering",
+      "durationYears": 4,
+      "totalSemesters": 8
+    },
+    {
+      "_id": "id_1795631831078_lrz457",
+      "createdAt": "2026-11-25T18:37:11.078Z",
+      "updatedAt": "2026-11-25T18:37:11.078Z",
+      "name": "B.Tech Electronics & Communication",
+      "code": "BT-ECE",
+      "departmentId": "id_1795631831075_r1uevt",
+      "departmentName": "Electronics & Communication Engineering",
+      "durationYears": 4,
+      "totalSemesters": 8
+    },
+    {
+      "_id": "id_1795631831079_q9jind",
+      "createdAt": "2026-11-25T18:37:11.079Z",
+      "updatedAt": "2026-11-25T18:37:11.079Z",
+      "name": "B.Tech Mechanical Engineering",
+      "code": "BT-ME",
+      "departmentId": "id_1795631831076_fl6msy",
+      "departmentName": "Mechanical Engineering",
+      "durationYears": 4,
+      "totalSemesters": 8
+    }
+  ],
+  "sections": [
+    {
+      "_id": "id_1795631831080_9oo0it",
+      "createdAt": "2026-11-25T18:37:11.080Z",
+      "updatedAt": "2026-11-25T18:37:11.080Z",
+      "name": "CSE-A",
+      "courseId": "id_1795631831077_zexndb",
+      "courseName": "B.Tech Computer Science",
+      "departmentName": "Computer Science & Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "capacity": 60,
+      "roomNumber": "Lab-301"
+    },
+    {
+      "_id": "id_1795631831081_tt0vmj",
+      "createdAt": "2026-11-25T18:37:11.081Z",
+      "updatedAt": "2026-11-25T18:37:11.081Z",
+      "name": "CSE-B",
+      "courseId": "id_1795631831077_zexndb",
+      "courseName": "B.Tech Computer Science",
+      "departmentName": "Computer Science & Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "capacity": 60,
+      "roomNumber": "Lab-302"
+    },
+    {
+      "_id": "id_1795631831082_scdenq",
+      "createdAt": "2026-11-25T18:37:11.082Z",
+      "updatedAt": "2026-11-25T18:37:11.082Z",
+      "name": "ECE-A",
+      "courseId": "id_1795631831078_lrz457",
+      "courseName": "B.Tech Electronics & Communication",
+      "departmentName": "Electronics & Communication Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "capacity": 60,
+      "roomNumber": "Hall-201"
+    },
+    {
+      "_id": "id_1795631831083_bbzpow",
+      "createdAt": "2026-11-25T18:37:11.083Z",
+      "updatedAt": "2026-11-25T18:37:11.083Z",
+      "name": "ME-A",
+      "courseId": "id_1795631831079_q9jind",
+      "courseName": "B.Tech Mechanical Engineering",
+      "departmentName": "Mechanical Engineering",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "capacity": 60,
+      "roomNumber": "Workshop-1"
+    }
+  ],
+  "subjects": [
+    {
+      "_id": "id_1795631831084_4fp972",
+      "createdAt": "2026-11-25T18:37:11.084Z",
+      "updatedAt": "2026-11-25T18:37:11.084Z",
+      "name": "Operating Systems",
+      "code": "CS401",
+      "departmentName": "Computer Science & Engineering",
+      "credits": 4
+    },
+    {
+      "_id": "id_1795631831084_yk1shd",
+      "createdAt": "2026-11-25T18:37:11.084Z",
+      "updatedAt": "2026-11-25T18:37:11.084Z",
+      "name": "Data Structures & Algorithms",
+      "code": "CS301",
+      "departmentName": "Computer Science & Engineering",
+      "credits": 4
+    },
+    {
+      "_id": "id_1795631831085_mrq9h3",
+      "createdAt": "2026-11-25T18:37:11.085Z",
+      "updatedAt": "2026-11-25T18:37:11.085Z",
+      "name": "Database Management Systems",
+      "code": "CS402",
+      "departmentName": "Computer Science & Engineering",
+      "credits": 3
+    },
+    {
+      "_id": "id_1795631831086_ejo743",
+      "createdAt": "2026-11-25T18:37:11.086Z",
+      "updatedAt": "2026-11-25T18:37:11.086Z",
+      "name": "Computer Networks",
+      "code": "CS403",
+      "departmentName": "Computer Science & Engineering",
+      "credits": 4
+    },
+    {
+      "_id": "id_1795631831087_48fhhb",
+      "createdAt": "2026-11-25T18:37:11.087Z",
+      "updatedAt": "2026-11-25T18:37:11.087Z",
+      "name": "Digital Electronics",
+      "code": "EC401",
+      "departmentName": "Electronics & Communication Engineering",
+      "credits": 3
+    },
+    {
+      "_id": "id_1795631831088_t254en",
+      "createdAt": "2026-11-25T18:37:11.088Z",
+      "updatedAt": "2026-11-25T18:37:11.088Z",
+      "name": "Thermodynamics",
+      "code": "ME401",
+      "departmentName": "Mechanical Engineering",
+      "credits": 4
+    }
+  ],
+  "exams": [
+    {
+      "_id": "id_1795631831147_lph3le",
+      "createdAt": "2026-11-25T18:37:11.147Z",
+      "updatedAt": "2026-11-25T18:37:11.147Z",
+      "title": "Internal Assessment 1: Operating Systems",
+      "description": "First internal continuous evaluation exam covering Process Management, Deadlocks, Scheduling and Memory Management.",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "subject": "Operating Systems",
+      "sections": [
+        "CSE-A"
+      ],
+      "examType": "Internal Examination",
+      "examDate": "2026-11-25",
+      "startTime": "22:07",
+      "endTime": "10:07",
+      "duration": 30,
+      "totalMarks": 20,
+      "passingMarks": 8,
+      "numberOfQuestions": 10,
+      "questions": [
+        "id_1795631831122_k4i5ap",
+        "id_1795631831122_2t19a6",
+        "id_1795631831123_xrhsb2",
+        "id_1795631831124_ku6fba",
+        "id_1795631831125_6ypmdx",
+        "id_1795631831126_23jdpg",
+        "id_1795631831127_19h52c",
+        "id_1795631831128_ze6gwe",
+        "id_1795631831128_qbvck7",
+        "id_1795631831129_1fx3ix"
+      ],
+      "instructions": "1. All objective questions carry negative marks for incorrect answers.\n2. Do not refresh browser or exit full-screen.\n3. The exam will automatically submit when time expires.\n4. Ensure you click Submit Exam before time runs out.",
+      "negativeMarking": true,
+      "negativeMarksPerWrongAnswer": 0.5,
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "allowReview": true,
+      "allowBackNavigation": true,
+      "resultVisibility": true,
+      "status": "Active",
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins",
+      "enrolledStudentsCount": 10
+    },
+    {
+      "_id": "id_1795631831148_ytjm1m",
+      "createdAt": "2026-11-25T18:37:11.148Z",
+      "updatedAt": "2026-11-25T18:37:11.148Z",
+      "title": "Mid-Term Examination: Data Structures & Algorithms",
+      "description": "Comprehensive mid-term examination covering Trees, Graphs, Sorting algorithms, Complexity analysis.",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "subject": "Data Structures & Algorithms",
+      "sections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "examType": "Mid-Term Examination",
+      "examDate": "2026-11-26",
+      "startTime": "10:00",
+      "endTime": "12:00",
+      "duration": 60,
+      "totalMarks": 50,
+      "passingMarks": 20,
+      "numberOfQuestions": 6,
+      "questions": [
+        "id_1795631831130_s4b30f",
+        "id_1795631831131_bvto4r",
+        "id_1795631831132_ckyky0",
+        "id_1795631831133_ajl8ed",
+        "id_1795631831134_mftp5r",
+        "id_1795631831135_ycqjzy"
+      ],
+      "instructions": "1. Calculators are strictly prohibited.\n2. Attempt all mandatory sections.",
+      "negativeMarking": false,
+      "negativeMarksPerWrongAnswer": 0,
+      "shuffleQuestions": false,
+      "shuffleOptions": false,
+      "allowReview": true,
+      "allowBackNavigation": true,
+      "resultVisibility": false,
+      "status": "Scheduled",
+      "createdBy": "id_1795631831090_z37bud",
+      "createdByName": "Prof. Robert Chen",
+      "enrolledStudentsCount": 18
+    },
+    {
+      "_id": "id_1795631831149_q48mw1",
+      "createdAt": "2026-11-25T18:37:11.149Z",
+      "updatedAt": "2026-11-25T18:37:11.149Z",
+      "title": "Quiz 1: Database Management Systems",
+      "description": "Weekly assessment quiz covering relational models, ACID properties and Normalization.",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "subject": "Database Management Systems",
+      "sections": [
+        "CSE-A"
+      ],
+      "examType": "Quiz",
+      "examDate": "2026-11-20",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "duration": 20,
+      "totalMarks": 10,
+      "passingMarks": 4,
+      "numberOfQuestions": 4,
+      "questions": [
+        "id_1795631831136_ctb1ip",
+        "id_1795631831137_nh9jhy",
+        "id_1795631831138_i4o8vf",
+        "id_1795631831139_ilvxgj"
+      ],
+      "instructions": "Timed quiz for DBMS concept check.",
+      "negativeMarking": true,
+      "negativeMarksPerWrongAnswer": 0.5,
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "allowReview": true,
+      "allowBackNavigation": true,
+      "resultVisibility": true,
+      "status": "Completed",
+      "createdBy": "id_1795631831090_z37bud",
+      "createdByName": "Prof. Robert Chen",
+      "enrolledStudentsCount": 10
+    },
+    {
+      "_id": "id_1795631831150_2xsaro",
+      "createdAt": "2026-11-25T18:37:11.150Z",
+      "updatedAt": "2026-11-25T18:37:11.150Z",
+      "title": "Practice Test: Computer Networks Fundamentals",
+      "description": "Self-paced practice assessment for OSI model and networking protocols.",
+      "department": "Computer Science & Engineering",
+      "course": "B.Tech Computer Science",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "subject": "Computer Networks",
+      "sections": [
+        "CSE-A",
+        "CSE-B"
+      ],
+      "examType": "Practice Test",
+      "examDate": "2026-11-25",
+      "startTime": "08:00",
+      "endTime": "23:59",
+      "duration": 30,
+      "totalMarks": 15,
+      "passingMarks": 6,
+      "numberOfQuestions": 3,
+      "questions": [
+        "id_1795631831140_p4uewe",
+        "id_1795631831141_hci53p",
+        "id_1795631831141_fhurno"
+      ],
+      "instructions": "Open practice test. Can be attempted for revision.",
+      "negativeMarking": false,
+      "negativeMarksPerWrongAnswer": 0,
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "allowReview": true,
+      "allowBackNavigation": true,
+      "resultVisibility": true,
+      "status": "Active",
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins",
+      "enrolledStudentsCount": 18
+    },
+    {
+      "_id": "id_1795631831151_vsj0wo",
+      "createdAt": "2026-11-25T18:37:11.151Z",
+      "updatedAt": "2026-11-25T18:37:11.151Z",
+      "title": "Semester End Examination: Digital Electronics",
+      "description": "Final semester examination for ECE students.",
+      "department": "Electronics & Communication Engineering",
+      "course": "B.Tech Electronics & Communication",
+      "year": "2nd Year",
+      "semester": "4th Semester",
+      "subject": "Digital Electronics",
+      "sections": [
+        "ECE-A"
+      ],
+      "examType": "Semester Examination",
+      "examDate": "2026-12-15",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "duration": 180,
+      "totalMarks": 100,
+      "passingMarks": 40,
+      "numberOfQuestions": 2,
+      "questions": [
+        "id_1795631831142_fr6fk4",
+        "id_1795631831143_t97xym"
+      ],
+      "instructions": "Final official semester exam.",
+      "negativeMarking": false,
+      "negativeMarksPerWrongAnswer": 0,
+      "shuffleQuestions": false,
+      "shuffleOptions": false,
+      "allowReview": true,
+      "allowBackNavigation": true,
+      "resultVisibility": false,
+      "status": "Draft",
+      "createdBy": "id_1795631831091_x0sijx",
+      "createdByName": "Dr. Anita Sharma",
+      "enrolledStudentsCount": 7
+    }
+  ],
+  "questions": [
+    {
+      "_id": "id_1795631831122_k4i5ap",
+      "createdAt": "2026-11-25T18:37:11.122Z",
+      "updatedAt": "2026-11-25T18:37:11.122Z",
+      "subject": "Operating Systems",
+      "topic": "Process Management",
+      "difficulty": "Easy",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "What is the primary role of an operating system kernel?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "To act as the core interface between hardware and software processes"
+        },
+        {
+          "id": "opt_2",
+          "text": "To compile high-level programming code into assembly"
+        },
+        {
+          "id": "opt_3",
+          "text": "To provide a visual graphic user interface directly"
+        },
+        {
+          "id": "opt_4",
+          "text": "To encrypt hard disk drives by default"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "The kernel is the core component of an OS that manages system resources and communications between hardware and software components.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831122_2t19a6",
+      "createdAt": "2026-11-25T18:37:11.122Z",
+      "updatedAt": "2026-11-25T18:37:11.122Z",
+      "subject": "Operating Systems",
+      "topic": "CPU Scheduling",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "Which CPU scheduling algorithm may lead to starvation of processes with longer burst times?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Round Robin (RR)"
+        },
+        {
+          "id": "opt_2",
+          "text": "Shortest Job Next / SJF"
+        },
+        {
+          "id": "opt_3",
+          "text": "First-Come First-Served (FCFS)"
+        },
+        {
+          "id": "opt_4",
+          "text": "Multilevel Feedback Queue"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "Shortest Job First (SJF) can cause starvation if short processes keep arriving, delaying long processes indefinitely.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831123_xrhsb2",
+      "createdAt": "2026-11-25T18:37:11.123Z",
+      "updatedAt": "2026-11-25T18:37:11.123Z",
+      "subject": "Operating Systems",
+      "topic": "Deadlocks",
+      "difficulty": "Hard",
+      "type": "multiple_select",
+      "marks": 3,
+      "questionText": "Which of the following are necessary conditions for a deadlock to occur? (Select all that apply)",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Mutual Exclusion"
+        },
+        {
+          "id": "opt_2",
+          "text": "Hold and Wait"
+        },
+        {
+          "id": "opt_3",
+          "text": "Preemption Allowed"
+        },
+        {
+          "id": "opt_4",
+          "text": "Circular Wait"
+        }
+      ],
+      "correctAnswer": [
+        "opt_1",
+        "opt_2",
+        "opt_4"
+      ],
+      "explanation": "Coffman's 4 conditions: Mutual exclusion, Hold & wait, No preemption, and Circular wait.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831124_ku6fba",
+      "createdAt": "2026-11-25T18:37:11.124Z",
+      "updatedAt": "2026-11-25T18:37:11.124Z",
+      "subject": "Operating Systems",
+      "topic": "Memory Management",
+      "difficulty": "Easy",
+      "type": "true_false",
+      "marks": 1,
+      "questionText": "Virtual memory allows an execution of processes that may not be completely in physical memory.",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "True"
+        },
+        {
+          "id": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "Virtual memory separates user logical memory from physical memory, enabling execution of partially loaded processes.",
+      "negativeMarks": 0.25,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831125_6ypmdx",
+      "createdAt": "2026-11-25T18:37:11.125Z",
+      "updatedAt": "2026-11-25T18:37:11.125Z",
+      "subject": "Operating Systems",
+      "topic": "Virtual Memory",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "What is \"Belady's Anomaly\" in operating systems?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "CPU utilization decreases when more processes are added"
+        },
+        {
+          "id": "opt_2",
+          "text": "Page fault rate increases as number of allocated page frames increases"
+        },
+        {
+          "id": "opt_3",
+          "text": "Disk access times double during heavy fragmentation"
+        },
+        {
+          "id": "opt_4",
+          "text": "Deadlocks cannot be resolved by terminating a single process"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "Beladys anomaly is the phenomenon in which increasing the number of page frames results in an increase in the number of page faults for certain memory access patterns (commonly in FIFO).",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831126_23jdpg",
+      "createdAt": "2026-11-25T18:37:11.126Z",
+      "updatedAt": "2026-11-25T18:37:11.126Z",
+      "subject": "Operating Systems",
+      "topic": "Inter-process Communication",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "A binary semaphore initialized to 1 can be used to achieve:",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Mutual Exclusion in critical section"
+        },
+        {
+          "id": "opt_2",
+          "text": "Clock Synchronization"
+        },
+        {
+          "id": "opt_3",
+          "text": "Infinite Buffer Sharing"
+        },
+        {
+          "id": "opt_4",
+          "text": "Round Robin Balancing"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "A binary semaphore has values 0 or 1 and behaves like a mutex to ensure only one thread or process enters the critical section.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831127_19h52c",
+      "createdAt": "2026-11-25T18:37:11.127Z",
+      "updatedAt": "2026-11-25T18:37:11.127Z",
+      "subject": "Operating Systems",
+      "topic": "Process States",
+      "difficulty": "Easy",
+      "type": "short_answer",
+      "marks": 2,
+      "questionText": "What is the term for a process that has completed execution but still has an entry in the process table?",
+      "options": [],
+      "correctAnswer": "Zombie",
+      "explanation": "A zombie process or defunct process is a process that has finished execution via exit() but whose entry remains in the process table to report status to the parent.",
+      "negativeMarks": 0,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831128_ze6gwe",
+      "createdAt": "2026-11-25T18:37:11.128Z",
+      "updatedAt": "2026-11-25T18:37:11.128Z",
+      "subject": "Operating Systems",
+      "topic": "File Systems",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "In Unix-like systems, which data structure contains metadata about a file except its name and actual content?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Superblock"
+        },
+        {
+          "id": "opt_2",
+          "text": "Inode"
+        },
+        {
+          "id": "opt_3",
+          "text": "Directory Table"
+        },
+        {
+          "id": "opt_4",
+          "text": "Page Table"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "An inode (index node) stores attributes and disk block locations of file system objects.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831128_qbvck7",
+      "createdAt": "2026-11-25T18:37:11.128Z",
+      "updatedAt": "2026-11-25T18:37:11.128Z",
+      "subject": "Operating Systems",
+      "topic": "Threading",
+      "difficulty": "Easy",
+      "type": "true_false",
+      "marks": 1,
+      "questionText": "Threads within the same process share the same heap memory and global variables.",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "True"
+        },
+        {
+          "id": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "Threads share the text segment, data segment, and OS resources, but maintain private stacks and program counters.",
+      "negativeMarks": 0.25,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831129_1fx3ix",
+      "createdAt": "2026-11-25T18:37:11.129Z",
+      "updatedAt": "2026-11-25T18:37:11.129Z",
+      "subject": "Operating Systems",
+      "topic": "Architecture",
+      "difficulty": "Hard",
+      "type": "descriptive",
+      "marks": 5,
+      "questionText": "Explain the difference between Monolithic Kernels and Microkernels, citing advantages and trade-offs of each architecture.",
+      "options": [],
+      "correctAnswer": "",
+      "explanation": "Monolithic kernels run all OS services (file system, VFS, drivers, IPC) in kernel space for high performance, whereas microkernels run only essential primitives (IPC, low-level memory, scheduling) in kernel space and move other services to user space for fault tolerance and modularity.",
+      "negativeMarks": 0,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831130_s4b30f",
+      "createdAt": "2026-11-25T18:37:11.130Z",
+      "updatedAt": "2026-11-25T18:37:11.130Z",
+      "subject": "Data Structures & Algorithms",
+      "topic": "Time Complexity",
+      "difficulty": "Easy",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "What is the worst-case time complexity of QuickSort?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "O(N log N)"
+        },
+        {
+          "id": "opt_2",
+          "text": "O(N^2)"
+        },
+        {
+          "id": "opt_3",
+          "text": "O(log N)"
+        },
+        {
+          "id": "opt_4",
+          "text": "O(N)"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "QuickSort exhibits O(N^2) in the worst case when the chosen pivot is repeatedly the smallest or largest element.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831131_bvto4r",
+      "createdAt": "2026-11-25T18:37:11.131Z",
+      "updatedAt": "2026-11-25T18:37:11.131Z",
+      "subject": "Data Structures & Algorithms",
+      "topic": "Trees",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "In an AVL tree, what is the maximum allowed difference between the heights of left and right subtrees of any node?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "0"
+        },
+        {
+          "id": "opt_2",
+          "text": "1"
+        },
+        {
+          "id": "opt_3",
+          "text": "2"
+        },
+        {
+          "id": "opt_4",
+          "text": "log N"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "An AVL tree is a self-balancing BST where the balance factor (height(left) - height(right)) must be in {-1, 0, 1}.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831132_ckyky0",
+      "createdAt": "2026-11-25T18:37:11.132Z",
+      "updatedAt": "2026-11-25T18:37:11.132Z",
+      "subject": "Data Structures & Algorithms",
+      "topic": "Graphs",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "Which algorithm is used to find the shortest path from a single source in a graph with non-negative edge weights?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Kruskal's Algorithm"
+        },
+        {
+          "id": "opt_2",
+          "text": "Prim's Algorithm"
+        },
+        {
+          "id": "opt_3",
+          "text": "Dijkstra's Algorithm"
+        },
+        {
+          "id": "opt_4",
+          "text": "Floyd-Warshall Algorithm"
+        }
+      ],
+      "correctAnswer": "opt_3",
+      "explanation": "Dijkstras algorithm finds shortest paths from a single source vertex to all other vertices in graphs with non-negative edge weights.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831133_ajl8ed",
+      "createdAt": "2026-11-25T18:37:11.133Z",
+      "updatedAt": "2026-11-25T18:37:11.133Z",
+      "subject": "Data Structures & Algorithms",
+      "topic": "Stacks & Queues",
+      "difficulty": "Easy",
+      "type": "true_false",
+      "marks": 1,
+      "questionText": "A Queue follows the Last In First Out (LIFO) principle.",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "True"
+        },
+        {
+          "id": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "A Queue follows First In First Out (FIFO). Stacks follow LIFO.",
+      "negativeMarks": 0.25,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831134_mftp5r",
+      "createdAt": "2026-11-25T18:37:11.134Z",
+      "updatedAt": "2026-11-25T18:37:11.134Z",
+      "subject": "Data Structures & Algorithms",
+      "topic": "Hashing",
+      "difficulty": "Hard",
+      "type": "multiple_select",
+      "marks": 3,
+      "questionText": "Which of the following are collision resolution techniques in hash tables?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Separate Chaining"
+        },
+        {
+          "id": "opt_2",
+          "text": "Linear Probing"
+        },
+        {
+          "id": "opt_3",
+          "text": "Quadratic Probing"
+        },
+        {
+          "id": "opt_4",
+          "text": "Huffman Encoding"
+        }
+      ],
+      "correctAnswer": [
+        "opt_1",
+        "opt_2",
+        "opt_3"
+      ],
+      "explanation": "Separate chaining, linear probing, quadratic probing, and double hashing are collision resolution techniques. Huffman is for data compression.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831135_ycqjzy",
+      "createdAt": "2026-11-25T18:37:11.135Z",
+      "updatedAt": "2026-11-25T18:37:11.135Z",
+      "subject": "Data Structures & Algorithms",
+      "topic": "Sorting",
+      "difficulty": "Easy",
+      "type": "short_answer",
+      "marks": 2,
+      "questionText": "Which divide-and-conquer sorting algorithm guarantees O(N log N) time complexity in all cases (worst, average, best)?",
+      "options": [],
+      "correctAnswer": "Merge Sort",
+      "explanation": "Merge Sort always takes O(N log N) time because it splits the array in half and takes linear time to merge.",
+      "negativeMarks": 0,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831136_ctb1ip",
+      "createdAt": "2026-11-25T18:37:11.136Z",
+      "updatedAt": "2026-11-25T18:37:11.136Z",
+      "subject": "Database Management Systems",
+      "topic": "ACID Properties",
+      "difficulty": "Easy",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "What does the \"I\" in ACID properties of transactions stand for?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Integrity"
+        },
+        {
+          "id": "opt_2",
+          "text": "Isolation"
+        },
+        {
+          "id": "opt_3",
+          "text": "Independence"
+        },
+        {
+          "id": "opt_4",
+          "text": "Iteration"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "ACID stands for Atomicity, Consistency, Isolation, and Durability.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831137_nh9jhy",
+      "createdAt": "2026-11-25T18:37:11.137Z",
+      "updatedAt": "2026-11-25T18:37:11.137Z",
+      "subject": "Database Management Systems",
+      "topic": "Normalization",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "A relation is in 3NF if it is in 2NF and there is no:",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Multivalued dependency"
+        },
+        {
+          "id": "opt_2",
+          "text": "Transitive dependency of non-prime attributes on candidate keys"
+        },
+        {
+          "id": "opt_3",
+          "text": "Partial dependency"
+        },
+        {
+          "id": "opt_4",
+          "text": "Join dependency"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "Third Normal Form (3NF) requires 2NF and no transitive dependency where X -> Y and Y -> Z for non-prime attributes.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831138_i4o8vf",
+      "createdAt": "2026-11-25T18:37:11.138Z",
+      "updatedAt": "2026-11-25T18:37:11.138Z",
+      "subject": "Database Management Systems",
+      "topic": "Indexing",
+      "difficulty": "Hard",
+      "type": "true_false",
+      "marks": 1,
+      "questionText": "A table in a relational database can have multiple Clustered Indexes.",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "True"
+        },
+        {
+          "id": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "Because a clustered index determines the physical storage order of the rows, there can be only one clustered index per table.",
+      "negativeMarks": 0.25,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831139_ilvxgj",
+      "createdAt": "2026-11-25T18:37:11.139Z",
+      "updatedAt": "2026-11-25T18:37:11.139Z",
+      "subject": "Database Management Systems",
+      "topic": "SQL Joins",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "Which SQL JOIN returns all rows from the left table and matched rows from the right table, filling nulls where no match exists?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "INNER JOIN"
+        },
+        {
+          "id": "opt_2",
+          "text": "LEFT OUTER JOIN"
+        },
+        {
+          "id": "opt_3",
+          "text": "RIGHT OUTER JOIN"
+        },
+        {
+          "id": "opt_4",
+          "text": "CROSS JOIN"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "LEFT JOIN returns all records from left table and matching rows from right table, defaulting missing values to NULL.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831140_p4uewe",
+      "createdAt": "2026-11-25T18:37:11.140Z",
+      "updatedAt": "2026-11-25T18:37:11.140Z",
+      "subject": "Computer Networks",
+      "topic": "OSI Model",
+      "difficulty": "Easy",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "Which layer of the OSI model is responsible for reliable process-to-process packet delivery and flow control?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Network Layer"
+        },
+        {
+          "id": "opt_2",
+          "text": "Transport Layer"
+        },
+        {
+          "id": "opt_3",
+          "text": "Data Link Layer"
+        },
+        {
+          "id": "opt_4",
+          "text": "Session Layer"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "The Transport layer (Layer 4) provides end-to-end communication services for applications, including connection-oriented data stream support, reliability, flow control, and multiplexing.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831141_hci53p",
+      "createdAt": "2026-11-25T18:37:11.141Z",
+      "updatedAt": "2026-11-25T18:37:11.141Z",
+      "subject": "Computer Networks",
+      "topic": "Protocols",
+      "difficulty": "Medium",
+      "type": "multiple_select",
+      "marks": 3,
+      "questionText": "Which of the following protocols operate over UDP by default?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "DNS"
+        },
+        {
+          "id": "opt_2",
+          "text": "DHCP"
+        },
+        {
+          "id": "opt_3",
+          "text": "HTTP/1.1"
+        },
+        {
+          "id": "opt_4",
+          "text": "TFTP"
+        }
+      ],
+      "correctAnswer": [
+        "opt_1",
+        "opt_2",
+        "opt_4"
+      ],
+      "explanation": "DNS queries, DHCP, and TFTP use UDP. HTTP/1.1 runs over TCP.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831141_fhurno",
+      "createdAt": "2026-11-25T18:37:11.141Z",
+      "updatedAt": "2026-11-25T18:37:11.141Z",
+      "subject": "Computer Networks",
+      "topic": "IP Addressing",
+      "difficulty": "Easy",
+      "type": "true_false",
+      "marks": 1,
+      "questionText": "IPv6 addresses are 128 bits in length.",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "True"
+        },
+        {
+          "id": "opt_2",
+          "text": "False"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "IPv6 addresses are 128-bit (16-byte) addresses, written in 8 groups of 4 hexadecimal digits.",
+      "negativeMarks": 0.25,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831142_fr6fk4",
+      "createdAt": "2026-11-25T18:37:11.142Z",
+      "updatedAt": "2026-11-25T18:37:11.142Z",
+      "subject": "Digital Electronics",
+      "topic": "Logic Gates",
+      "difficulty": "Easy",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "Which logic gate produces a HIGH output only when both of its inputs are different?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "AND"
+        },
+        {
+          "id": "opt_2",
+          "text": "XOR"
+        },
+        {
+          "id": "opt_3",
+          "text": "NOR"
+        },
+        {
+          "id": "opt_4",
+          "text": "XNOR"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "Exclusive-OR (XOR) gives true output if and only if one input is true and the other false.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831143_t97xym",
+      "createdAt": "2026-11-25T18:37:11.143Z",
+      "updatedAt": "2026-11-25T18:37:11.143Z",
+      "subject": "Digital Electronics",
+      "topic": "Flip-Flops",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "What is the condition called when J=1 and K=1 in a JK Flip-Flop, causing output toggle at each clock pulse?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Race Around Condition"
+        },
+        {
+          "id": "opt_2",
+          "text": "Toggle Mode"
+        },
+        {
+          "id": "opt_3",
+          "text": "Hold Mode"
+        },
+        {
+          "id": "opt_4",
+          "text": "Reset Mode"
+        }
+      ],
+      "correctAnswer": "opt_2",
+      "explanation": "When both J and K are high, the output toggles with each active clock transition.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831145_5gyhfy",
+      "createdAt": "2026-11-25T18:37:11.145Z",
+      "updatedAt": "2026-11-25T18:37:11.145Z",
+      "subject": "Thermodynamics",
+      "topic": "Laws of Thermodynamics",
+      "difficulty": "Easy",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "Which law of thermodynamics defines the concept of temperature and thermal equilibrium?",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "Zeroth Law"
+        },
+        {
+          "id": "opt_2",
+          "text": "First Law"
+        },
+        {
+          "id": "opt_3",
+          "text": "Second Law"
+        },
+        {
+          "id": "opt_4",
+          "text": "Third Law"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "The Zeroth law states that if two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other, defining temperature.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    },
+    {
+      "_id": "id_1795631831145_b3xdsh",
+      "createdAt": "2026-11-25T18:37:11.145Z",
+      "updatedAt": "2026-11-25T18:37:11.145Z",
+      "subject": "Thermodynamics",
+      "topic": "Carnot Cycle",
+      "difficulty": "Medium",
+      "type": "mcq",
+      "marks": 2,
+      "questionText": "The efficiency of a reversible Carnot engine operating between temperatures Th and Tc is:",
+      "options": [
+        {
+          "id": "opt_1",
+          "text": "1 - (Tc / Th)"
+        },
+        {
+          "id": "opt_2",
+          "text": "1 - (Th / Tc)"
+        },
+        {
+          "id": "opt_3",
+          "text": "Tc / Th"
+        },
+        {
+          "id": "opt_4",
+          "text": "(Th + Tc) / Th"
+        }
+      ],
+      "correctAnswer": "opt_1",
+      "explanation": "Carnot efficiency eta = 1 - Tc / Th, where temperatures are in Kelvin.",
+      "negativeMarks": 0.5,
+      "createdBy": "id_1795631831089_mbigko",
+      "createdByName": "Dr. Sarah Jenkins"
+    }
+  ],
+  "attempts": [
+    {
+      "_id": "id_1795631831152_is8yci",
+      "createdAt": "2026-11-25T18:37:11.152Z",
+      "updatedAt": "2026-11-25T18:37:11.152Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831093_szfdmg",
+      "studentName": "Alex Morgan",
+      "studentEmail": "student@examora.com",
+      "studentRoll": "CS202401",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 8.5,
+      "percentage": 85,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 3,
+        "wrongCount": 1,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Excellent performance in normalization and ACID concepts!"
+    },
+    {
+      "_id": "id_1795631831154_bwwkqd",
+      "createdAt": "2026-11-25T18:37:11.154Z",
+      "updatedAt": "2026-11-25T18:37:11.154Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831094_0iaagu",
+      "studentName": "Sophia Hayes",
+      "studentEmail": "sophia.h@examora.com",
+      "studentRoll": "CS202402",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 10,
+      "percentage": 100,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 3,
+        "wrongCount": 1,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831155_g5io2x",
+      "createdAt": "2026-11-25T18:37:11.155Z",
+      "updatedAt": "2026-11-25T18:37:11.155Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831095_39czc8",
+      "studentName": "Liam Davies",
+      "studentEmail": "liam.d@examora.com",
+      "studentRoll": "CS202403",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 10,
+      "percentage": 100,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 3,
+        "wrongCount": 1,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831156_3wdm7v",
+      "createdAt": "2026-11-25T18:37:11.156Z",
+      "updatedAt": "2026-11-25T18:37:11.156Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831096_5z0png",
+      "studentName": "Emma Wilson",
+      "studentEmail": "emma.w@examora.com",
+      "studentRoll": "CS202404",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 10,
+      "percentage": 100,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 3,
+        "wrongCount": 1,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831157_0fxv39",
+      "createdAt": "2026-11-25T18:37:11.157Z",
+      "updatedAt": "2026-11-25T18:37:11.157Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831097_0g70xw",
+      "studentName": "Noah Taylor",
+      "studentEmail": "noah.t@examora.com",
+      "studentRoll": "CS202405",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 3,
+      "percentage": 30,
+      "passed": false,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 2,
+        "wrongCount": 2,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831158_pvjcy1",
+      "createdAt": "2026-11-25T18:37:11.158Z",
+      "updatedAt": "2026-11-25T18:37:11.158Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831098_ws4or1",
+      "studentName": "Olivia Martinez",
+      "studentEmail": "olivia.m@examora.com",
+      "studentRoll": "CS202406",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 3,
+      "percentage": 30,
+      "passed": false,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 2,
+        "wrongCount": 2,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831159_3jco0h",
+      "createdAt": "2026-11-25T18:37:11.159Z",
+      "updatedAt": "2026-11-25T18:37:11.160Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831098_6sgndq",
+      "studentName": "Ethan Thomas",
+      "studentEmail": "ethan.t@examora.com",
+      "studentRoll": "CS202407",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 3,
+      "percentage": 30,
+      "passed": false,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 2,
+        "wrongCount": 2,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831161_q0s8p9",
+      "createdAt": "2026-11-25T18:37:11.161Z",
+      "updatedAt": "2026-11-25T18:37:11.161Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831099_371y1w",
+      "studentName": "Ava Jackson",
+      "studentEmail": "ava.j@examora.com",
+      "studentRoll": "CS202408",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 8,
+      "percentage": 80,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 3,
+        "wrongCount": 1,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831162_h54w7g",
+      "createdAt": "2026-11-25T18:37:11.162Z",
+      "updatedAt": "2026-11-25T18:37:11.162Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831100_gb07tt",
+      "studentName": "Lucas White",
+      "studentEmail": "lucas.w@examora.com",
+      "studentRoll": "CS202409",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 4,
+      "percentage": 40,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 2,
+        "wrongCount": 2,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    },
+    {
+      "_id": "id_1795631831163_x17uth",
+      "createdAt": "2026-11-25T18:37:11.163Z",
+      "updatedAt": "2026-11-25T18:37:11.163Z",
+      "examId": "id_1795631831149_q48mw1",
+      "examTitle": "Quiz 1: Database Management Systems",
+      "subject": "Database Management Systems",
+      "studentId": "id_1795631831101_el5w2b",
+      "studentName": "Mia Harris",
+      "studentEmail": "mia.h@examora.com",
+      "studentRoll": "CS202410",
+      "department": "Computer Science & Engineering",
+      "section": "CSE-A",
+      "totalMarks": 10,
+      "marksObtained": 9,
+      "percentage": 90,
+      "passed": true,
+      "status": "submitted",
+      "startedAt": "2026-11-20T14:02:00.000Z",
+      "submittedAt": "2026-11-20T14:18:00.000Z",
+      "timeTakenMinutes": 16,
+      "answers": {},
+      "evaluationBreakdown": {
+        "correctCount": 3,
+        "wrongCount": 1,
+        "unansweredCount": 0
+      },
+      "facultyFeedback": "Satisfactory result. Review indexing."
+    }
+  ],
+  "notifications": [
+    {
+      "_id": "id_1795631831164_dqb0m4",
+      "createdAt": "2026-11-25T18:37:11.164Z",
+      "updatedAt": "2026-11-25T18:37:11.164Z",
+      "title": "Welcome to EXAMORA!",
+      "message": "The academic examination management portal is live. Check your dashboard for scheduled exams.",
+      "type": "announcement",
+      "targetRole": "all"
+    },
+    {
+      "_id": "id_1795631831165_v7ys07",
+      "createdAt": "2026-11-25T18:37:11.165Z",
+      "updatedAt": "2026-11-25T18:37:11.165Z",
+      "title": "Internal Assessment 1 Live Now",
+      "message": "Operating Systems Internal Assessment 1 is currently active for section CSE-A. Complete before the deadline.",
+      "type": "exam_active",
+      "targetRole": "student",
+      "targetSection": "CSE-A"
+    },
+    {
+      "_id": "id_1795631831166_wogwcm",
+      "createdAt": "2026-11-25T18:37:11.166Z",
+      "updatedAt": "2026-11-25T18:37:11.166Z",
+      "title": "Mid-Term Exam Schedule Published",
+      "message": "Data Structures & Algorithms mid-term exam is scheduled for tomorrow at 10:00 AM.",
+      "type": "exam_scheduled",
+      "targetRole": "student",
+      "targetSection": "CSE-A"
+    }
+  ],
+  "settings": {
+    "institutionName": "EXAMORA University of Technology",
+    "academicYear": "2025-2026",
+    "defaultDuration": 60,
+    "defaultPassingPercentage": 40,
+    "allowRegistration": false,
+    "systemEmail": "admin@examora.com"
+  },
+  "activityLogs": [
+    {
+      "_id": "id_1795632263407_jonbw7",
+      "createdAt": "2026-11-25T18:44:23.407Z",
+      "updatedAt": "2026-11-25T18:44:23.407Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831093_szfdmg",
+      "userName": "Alex Morgan",
+      "userRole": "student",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:44:23.407Z"
+    },
+    {
+      "_id": "id_1795632336605_adp7k6",
+      "createdAt": "2026-11-25T18:45:36.605Z",
+      "updatedAt": "2026-11-25T18:45:36.605Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_mbigko",
+      "userName": "Dr. Sarah Jenkins",
+      "userRole": "faculty",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:45:36.605Z"
+    },
+    {
+      "_id": "id_1795632394005_dsm46y",
+      "createdAt": "2026-11-25T18:46:34.005Z",
+      "updatedAt": "2026-11-25T18:46:34.005Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_kk6iip",
+      "userName": "Chief Administrator",
+      "userRole": "admin",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:46:34.005Z"
+    },
+    {
+      "_id": "id_1795632465359_okk749",
+      "createdAt": "2026-11-25T18:47:45.359Z",
+      "updatedAt": "2026-11-25T18:47:45.359Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_mbigko",
+      "userName": "Dr. Sarah Jenkins",
+      "userRole": "faculty",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:47:45.358Z"
+    },
+    {
+      "_id": "id_1795632516950_mbd4yk",
+      "createdAt": "2026-11-25T18:48:36.950Z",
+      "updatedAt": "2026-11-25T18:48:36.950Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_kk6iip",
+      "userName": "Chief Administrator",
+      "userRole": "admin",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:48:36.950Z"
+    },
+    {
+      "_id": "id_1795632591269_v506m6",
+      "createdAt": "2026-11-25T18:49:51.269Z",
+      "updatedAt": "2026-11-25T18:49:51.269Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_mbigko",
+      "userName": "Dr. Sarah Jenkins",
+      "userRole": "faculty",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:49:51.269Z"
+    },
+    {
+      "_id": "id_1795632616545_m0mh9w",
+      "createdAt": "2026-11-25T18:50:16.545Z",
+      "updatedAt": "2026-11-25T18:50:16.545Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_kk6iip",
+      "userName": "Chief Administrator",
+      "userRole": "admin",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:50:16.545Z"
+    },
+    {
+      "_id": "id_1795632704363_roxefg",
+      "createdAt": "2026-11-25T18:51:44.363Z",
+      "updatedAt": "2026-11-25T18:51:44.363Z",
+      "action": "PROFILE_UPDATED",
+      "userId": "id_1795631831089_kk6iip",
+      "userName": "Chief Administrator",
+      "userRole": "admin",
+      "details": {},
+      "timestamp": "2026-11-25T18:51:44.363Z"
+    },
+    {
+      "_id": "id_1795632723546_txajg0",
+      "createdAt": "2026-11-25T18:52:03.546Z",
+      "updatedAt": "2026-11-25T18:52:03.546Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_mbigko",
+      "userName": "Dr. Sarah Jenkins",
+      "userRole": "faculty",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:52:03.546Z"
+    },
+    {
+      "_id": "id_1795632741987_hiu5ru",
+      "createdAt": "2026-11-25T18:52:21.987Z",
+      "updatedAt": "2026-11-25T18:52:21.987Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831093_szfdmg",
+      "userName": "Alex Morgan",
+      "userRole": "student",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:52:21.987Z"
+    },
+    {
+      "_id": "id_1795632765842_0et76d",
+      "createdAt": "2026-11-25T18:52:45.842Z",
+      "updatedAt": "2026-11-25T18:52:45.842Z",
+      "action": "PROFILE_UPDATED",
+      "userId": "id_1795631831093_szfdmg",
+      "userName": "Alex Morgan",
+      "userRole": "student",
+      "details": {},
+      "timestamp": "2026-11-25T18:52:45.842Z"
+    },
+    {
+      "_id": "id_1795632776357_731inz",
+      "createdAt": "2026-11-25T18:52:56.357Z",
+      "updatedAt": "2026-11-25T18:52:56.357Z",
+      "action": "USER_LOGIN",
+      "userId": "id_1795631831089_mbigko",
+      "userName": "Dr. Sarah Jenkins",
+      "userRole": "faculty",
+      "details": {
+        "ip": "::1"
+      },
+      "timestamp": "2026-11-25T18:52:56.357Z"
+    },
+    {
+      "_id": "id_1795633001502_20o8lb",
+      "createdAt": "2026-11-25T18:56:41.502Z",
+      "updatedAt": "2026-11-25T18:56:41.502Z",
+      "action": "USER_REGISTERED",
+      "userId": "id_1795633001499_49lr98",
+      "userName": "Test Student",
+      "userRole": "student",
+      "details": {
+        "role": "student"
+      },
+      "timestamp": "2026-11-25T18:56:41.502Z"
+    },
+    {
+      "_id": "id_1795633001624_fdzy4p",
+      "createdAt": "2026-11-25T18:56:41.624Z",
+      "updatedAt": "2026-11-25T18:56:41.624Z",
+      "action": "USER_REGISTERED",
+      "userId": "id_1795633001622_tnzidk",
+      "userName": "Prof. Test Faculty",
+      "userRole": "faculty",
+      "details": {
+        "role": "faculty"
+      },
+      "timestamp": "2026-11-25T18:56:41.624Z"
+    },
+    {
+      "_id": "id_1795633001736_k6kuuf",
+      "createdAt": "2026-11-25T18:56:41.736Z",
+      "updatedAt": "2026-11-25T18:56:41.736Z",
+      "action": "USER_REGISTERED",
+      "userId": "id_1795633001734_2ln66r",
+      "userName": "Assistant Administrator",
+      "userRole": "admin",
+      "details": {
+        "role": "admin"
+      },
+      "timestamp": "2026-11-25T18:56:41.736Z"
+    }
+  ]
+}
